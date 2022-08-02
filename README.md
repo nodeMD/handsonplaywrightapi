@@ -8,7 +8,7 @@ install all dependencies:
 set environmental variables:
 1. create `.env` file in main directory
 2. copy content of `.env.example` to `.env` file
-3. fill **all** the variables with data
+3. fill **all** the variables with data (you can find the values on `https://restful-booker.herokuapp.com` website)
 
 start all tests:
 `yarn test`
