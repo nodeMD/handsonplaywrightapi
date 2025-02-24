@@ -1,6 +1,8 @@
 Playwright E2E API tests
 for `https://restful-booker.herokuapp.com` API
 
+Two tests are SKIPPED cause there is a bug in the app. The server is not prepared for a request with wrong types for parameters and throws Internal Server Error. 
+
 # Quick start guide:
 install all dependencies:
 `yarn`
