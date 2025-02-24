@@ -1,3 +1,5 @@
+![example workflow](https://github.com/nodeMD/handsonplaywrightapi/actions/workflows/playwright.yml/badge.svg)
+
 Playwright E2E API tests
 for `https://restful-booker.herokuapp.com` API
 
